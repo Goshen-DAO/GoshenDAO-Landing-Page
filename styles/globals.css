@@ -133,16 +133,16 @@
       content: "Communities";
   }
   21%,40%{
-      content: "Founders";
+      content: "Connections";
   }
   41%,60%{
-      content: "Builders";
+      content: "Founders";
   }
   61%,80%{
-      content: "Creators";
+      content: "Builders";
   }
   81%,100%{
-      content: "Connections";
+      content: "Creators";
   }
 }
 
